@@ -1,0 +1,6 @@
+Para instalar un entorno virtual desde un archivo .yml
+
+1. Abrir una terminal nueva
+2. Escribir el comando: conda env create -f <nombre_del_archivo_del_entorno>.yml
+3. activar el entorno: conda activate <nombre_del_archivo_del_entorno>
+4. crear un kernel asociado al nuevo entorno, con el entorno activo escribrir en la consola: ipython kernel install --user --name=<nombre_que_queremos_ponerle_al_kernel>

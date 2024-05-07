@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.DS_Store
+airtable_secrets.txt
+foursquare_api_key.txt
+__pycache__/
